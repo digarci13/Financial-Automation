@@ -16,3 +16,6 @@ a text file "file_statement.txt" and writes information is format:
 must run script in this format:
 
         python finance.py statement_file.csv
+
+Also statement_file.csv that is going to be used must be inside the Bank_Statement
+folder in same working directory of finance.py
