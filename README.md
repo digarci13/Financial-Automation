@@ -10,7 +10,8 @@ a text file "file_statement.txt" and writes information is format:
         Total Savings:
         ----------------
 
-#To Use Script
+
+# To Use Script
 
 must run script in this format:
 
